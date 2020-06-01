@@ -38,7 +38,8 @@ Labelled data is available and there are “enough” cases of each type of fail
 
 
 ## `Project 2.` [Binary classification problem of USA 1991 census, earnings > 50k or < 50k](https://github.com/arjunsingh88/Big-Data-Pyspark/tree/master/Pyspark%20(A%20USA%201991%20census%20case))
-1. **EDA & EDA pipeline**
+1. **EDA & Feature (engineering, selection & transformation) pipeline**
 2. **KPI's**
 3. **Machine Learning ( Classification algorithms: Naive bayes, logistic regression, SVM, Random forest, Gradient Boosting )**
 4. **Hyper parameter tuning**
+5. **Binary class evaluation**
