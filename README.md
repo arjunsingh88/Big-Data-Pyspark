@@ -1,5 +1,5 @@
 # Big-Data (Pyspark, Databricks)
-## `Project 1.` Predictive Modeling: A case of Aircraft enine run-to-failure simulation
+## `Project 1.` [Predictive Modeling: A case of Aircraft enine run-to-failure simulation](https://github.com/arjunsingh88/Big-Data-Pyspark/tree/master/Pyspark%20(Aircraft%20Engine%20Run-to-Failure%20Simulation))
 
 ### Description
 The data used in this project is the simulated running data of different aircraft's engines, provided by NASA. All engines are of the same type, but each engine starts with different state and had different use circumstances.
@@ -37,7 +37,7 @@ Labelled data is available and there are “enough” cases of each type of fail
 
 
 
-## `Project 2.` Binary classification problem of USA 1991 census, earnings > 50k or < 50k
+## `Project 2.` [Binary classification problem of USA 1991 census, earnings > 50k or < 50k](https://github.com/arjunsingh88/Big-Data-Pyspark/tree/master/Pyspark%20(A%20USA%201991%20census%20case))
 1. **EDA & EDA pipeline**
 2. **KPI's**
 3. **Machine Learning ( Classification algorithms: Naive bayes, logistic regression, SVM, Random forest, Gradient Boosting )**
