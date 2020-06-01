@@ -1,5 +1,5 @@
 # Big-Data (Pyspark, Databricks)
-## `Project 1.` [Predictive Modeling: A case of Aircraft enine run-to-failure simulation](https://github.com/arjunsingh88/Big-Data-Pyspark/tree/master/Pyspark%20(Aircraft%20Engine%20Run-to-Failure%20Simulation))
+## `Project 1.` [Predictive Modeling: A case of Aircraft engine run-to-failure simulation](https://github.com/arjunsingh88/Big-Data-Pyspark/tree/master/Pyspark%20(Aircraft%20Engine%20Run-to-Failure%20Simulation))
 
 ### Description
 The data used in this project is the simulated running data of different aircraft's engines, provided by NASA. All engines are of the same type, but each engine starts with different state and had different use circumstances.
